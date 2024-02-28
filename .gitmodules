@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/capro-uio/capro-uio.r-universe.dev
 	branch = HEAD
-[submodule "freesurfer.lme"]
-	path = freesurfer.lme
-	url = https://github.com/capro-uio/freesurfer.lme
 [submodule "nettskjemar"]
 	path = nettskjemar
 	url = https://github.com/capro-uio/nettskjemar
+[submodule "neuromat"]
+	path = neuromat
+	url = https://github.com/capro-uio/neuromat
 [submodule "tsdrtools"]
 	path = tsdrtools
 	url = https://github.com/capro-uio/tsdrtools
